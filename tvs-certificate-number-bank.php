@@ -10,7 +10,7 @@
  * Plugin URI:        infini.systems
  * Description:       Allows admins to drop in new certificate numbers.
  * Version:           2.2.0
- * Author:            Infini Systems - Andy Craven : Gina Strickland
+ * Author:            Infini Systems - Andy Craven
  * Author URI:        infini.systems
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
